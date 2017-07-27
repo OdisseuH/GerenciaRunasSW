@@ -17,6 +17,6 @@ Aplicativo para gerenciar runas do SW
               
               REQUISITOS VERIFICADOS
               
-              - TER UMA EFICIENCIA MÁXIMA MENOR QUE 66%
+              - Ter uma eficiência máxima menor que 66%
               
-              - NÃO RUNA LEVEL 15
+              - Não ser uma runa level 15
